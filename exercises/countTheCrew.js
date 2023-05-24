@@ -14,3 +14,6 @@ let spaceship = {
 };
 
 // Write your code below
+
+
+console.log('Hello Ladies and Gentlemen');
