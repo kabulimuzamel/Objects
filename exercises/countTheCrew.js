@@ -15,5 +15,10 @@ let spaceship = {
 
 // Write your code below
 
+let crewCount = spaceship.numCrew;
+
+let planetArray = spaceShip.flightPath;
+
+
 
 console.log('Hello Ladies and Gentlemen');

@@ -12,3 +12,20 @@ let spaceship = {
 };
 
 // Write your code below
+//First
+const greenEnergy = object => {
+  object['Fuel Type'] = 'avocado oil';
+}
+
+//Second
+
+const remotelyDisable = object => {
+  object['disabled'] = true;
+}
+
+//Third
+
+greenEnergy(spaceship);
+remotelyDisable(spaceship);
+
+console.log(spaceship);
